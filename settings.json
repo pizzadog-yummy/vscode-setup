@@ -1,0 +1,62 @@
+{
+    "workbench.colorTheme": "Aura Dracula Spirit (Synthwave)",
+    "editor.accessibilitySupport": "off",
+    "liveServer.settings.host": "localhost",
+    "liveServer.settings.port": 3000,
+    "liveServer.settings.AdvanceCustomBrowserCmdLine": "",
+    "files.autoSave": "afterDelay",
+    "liveServer.settings.donotVerifyTags": true,
+    "workbench.iconTheme":"eq-material-theme-icons-palenight",
+    "editor.minimap.enabled": false,
+    "editor.renderWhitespace": "none",
+    "workbench.activityBar.location": "default",
+    "editor.guides.indentation": false,
+    "editor.stickyScroll.enabled": false,
+  "window.commandCenter": false,
+  "workbench.layoutControl.enabled": false,
+  "workbench.preferredDarkColorTheme": "Dracula Theme",
+  "workbench.fontAliasing": "antialiased",
+  "apc.font.family": "Helvetica",
+  "apc.menubar.compact": true,
+  "apc.statusBar": {
+    "position": "editor-bottom",
+    "height": 18
+  },
+  "material-icon-theme.hidesExplorerArrows": true,
+  "workbench.tree.renderIndentGuides": "none",
+  "workbench.tree.indent": 6,
+  "workbench.startupEditor": "none",
+  "workbench.tips.enabled": false,
+  "editor.lightbulb.enabled": "off",
+  "editor.fontFamily": "Monaco",
+  "editor.scrollbar.horizontal": "hidden",
+  "editor.overviewRulerBorder": false,
+  "editor.scrollbar.verticalScrollbarSize": 5,
+  "editor.scrollbar.horizontalScrollbarSize": 5,
+  "editor.cursorBlinking": "solid",
+  "editor.cursorSmoothCaretAnimation": "on",
+  "editor.tabSize": 2,
+  "editor.detectIndentation": false,
+  "breadcrumbs.enabled": false,
+  "explorer.confirmDragAndDrop": false,
+  "explorer.confirmDelete": false,
+  "explorer.compactFolders": false,
+  "git.decorations.enabled": false,
+  "scm.diffDecorations": "none",
+  "files.insertFinalNewline": true,
+  "apc.activityBar": {
+    "size": 36,
+    "itemMargin": 0
+  },
+  "terminal.integrated.fontFamily": "ComicShannsMono Nerd Font",
+  "terminal.integrated.lineHeight": 0.8,
+  "terminal.integrated.fontSize": 12,
+  "workbench.colorCustomizations": {
+    "terminalCursor.foreground": "#a12be5"
+  },
+  "workbench.statusBar.visible": false,
+  "animations.Install-Method": "Apc Customize UI++",
+  "apc.imports": [
+    "file://${userHome}/.vscode/extensions/brandonkirbyson.vscode-animations-2.0.3/dist/updateHandler.js"
+  ]
+}
